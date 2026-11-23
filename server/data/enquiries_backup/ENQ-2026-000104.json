@@ -1,0 +1,33 @@
+{
+  "referenceNumber": "ENQ-2026-000104",
+  "submittedAt": "2026-11-19T11:20:00.000Z",
+  "status": "Review Pending",
+  "customerSnapshot": {
+    "fullName": "Gurpreet Singh",
+    "company": "Punjab Motor & Cylinder Resleeving Hub",
+    "email": "gurpreet@punjabmotors.co.in",
+    "phone": "+91 98722 10984",
+    "whatsapp": "+91 98722 10984",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "country": "India",
+    "address": "Plot 108, Focal Point Phase V"
+  },
+  "catalogueItems": [
+    {
+      "modelNo": "VSCCT",
+      "name": "Valve Seat Cutter with carbide tip (30°, 45°, 70°)",
+      "category": "Valve Seat Cutting Tools",
+      "quantity": 6,
+      "notes": "Multi-angle tungsten carbide tipped cutters"
+    },
+    {
+      "modelNo": "VSCS",
+      "name": "Valve seat cutter set for car & bike engines (VsCHCS)",
+      "category": "Valve Seat Cutting Tools",
+      "quantity": 1,
+      "notes": "Master workshop cutter kit with pilots"
+    }
+  ],
+  "customItems": []
+}

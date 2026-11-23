@@ -1,0 +1,50 @@
+{
+  "referenceNumber": "ENQ-2026-000001",
+  "customerId": null,
+  "customerSnapshot": {
+    "fullName": "Vikram Sharma",
+    "company": "Sharma Engine Works",
+    "email": "vikram@sharmaengines.com",
+    "phone": "+91 8744020102",
+    "whatsapp": "+91 8744020102",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "Plot 44, MIDC Bhosari",
+    "gstin": "27AABCS1234F1Z5"
+  },
+  "catalogueItems": [
+    {
+      "productId": "prod-01-psh-vgkp-with-heavy-stand",
+      "modelNo": "PSH-VGKP WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 1,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-01-psh-vgkp-with-heavy-stand",
+        "modelNo": "PSH-VGKP WITH HEAVY STAND",
+        "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+        "category": "Valve Seat Grinding Tools",
+        "quantity": 1,
+        "notes": ""
+      }
+    }
+  ],
+  "customItems": [],
+  "generalNotes": "Test order notes",
+  "status": "New",
+  "pdfUrl": "/api/enquiries/ENQ-2026-000001/download",
+  "consent": {
+    "accepted": true,
+    "timestamp": "2026-11-18T19:02:15.750Z",
+    "policyVersion": "1.0"
+  },
+  "notificationStatus": {
+    "customerEmailSent": false,
+    "businessEmailSent": false,
+    "errors": []
+  },
+  "submittedAt": "2026-11-18T19:02:15.750Z"
+}

@@ -1,0 +1,33 @@
+{
+  "referenceNumber": "ENQ-2026-000106",
+  "submittedAt": "2026-11-19T12:40:00.000Z",
+  "status": "Quotation Dispatched",
+  "customerSnapshot": {
+    "fullName": "Ankit Bansal",
+    "company": "Bansal Precision Auto Spares",
+    "email": "xiscoenterprises@gmail.com",
+    "phone": "+91 8744020102",
+    "whatsapp": "+91 8744020102",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Asaf Ali Rd, Delhi, 110002"
+  },
+  "catalogueItems": [
+    {
+      "modelNo": "PS-VSP",
+      "name": "11/16\" Pink Valve Grinding Stones + Stone Holder",
+      "category": "Valve Seat Grinding Tools",
+      "quantity": 5,
+      "notes": "Pink ruby abrasive formulation for stellite seats"
+    },
+    {
+      "modelNo": "PSVP-21W",
+      "name": "Valve grinding pilots with 11/16\" stone holder (Wooden Box)",
+      "category": "Valve Seat Grinding Tools",
+      "quantity": 2,
+      "notes": "Complete set of 21 precision expanding pilots"
+    }
+  ],
+  "customItems": []
+}

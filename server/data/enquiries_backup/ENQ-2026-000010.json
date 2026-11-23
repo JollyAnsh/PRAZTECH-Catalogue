@@ -1,0 +1,99 @@
+{
+  "referenceNumber": "ENQ-2026-000010",
+  "customerId": null,
+  "customerSnapshot": {
+    "fullName": "Ansh Jolly",
+    "company": "",
+    "email": "jollyanshiayp@gmail.com",
+    "phone": "+919215609420",
+    "whatsapp": "",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Mohali",
+    "address": "20, Sunny Enclave, Zirakpur",
+    "gstin": ""
+  },
+  "catalogueItems": [
+    {
+      "productId": "prod-01-psh-vgkp-with-heavy-stand",
+      "modelNo": "PSH-VGKP WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 1,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-01-psh-vgkp-with-heavy-stand",
+        "modelNo": "PSH-VGKP WITH HEAVY STAND",
+        "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 1,
+        "notes": ""
+      }
+    },
+    {
+      "productId": "prod-19-pbvp-21w",
+      "modelNo": "PBVP-21W",
+      "name": "Valve grinding pilots with 9/16\" stone holder (Wooden Box)",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 1,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-19-pbvp-21w",
+        "modelNo": "PBVP-21W",
+        "name": "Valve grinding pilots with 9/16\" stone holder (Wooden Box)",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 1,
+        "notes": ""
+      }
+    },
+    {
+      "productId": "prod-28-pvds-heavy-duty",
+      "modelNo": "PVDS (HEAVY-DUTY)",
+      "name": "Heavy-Duty Valve Grinding Stone Dresser Stand",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 4,
+      "notes": "i need this in pink",
+      "productSnapshot": {
+        "productId": "prod-28-pvds-heavy-duty",
+        "modelNo": "PVDS (HEAVY-DUTY)",
+        "name": "Heavy-Duty Valve Grinding Stone Dresser Stand",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 4,
+        "notes": "i need this in pink"
+      }
+    }
+  ],
+  "customItems": [
+    {
+      "productName": "bruhs pen",
+      "specifications": "",
+      "dimensions": "20x020sx20",
+      "material": "plastic",
+      "quantity": 20,
+      "intendedApplication": "",
+      "notes": "cheetah print.",
+      "attachmentName": "",
+      "attachmentUrl": ""
+    }
+  ],
+  "generalNotes": "",
+  "status": "New",
+  "pdfUrl": "/api/enquiries/ENQ-2026-000010/download",
+  "consent": {
+    "accepted": true,
+    "timestamp": "2026-11-20T07:44:27.996Z",
+    "policyVersion": "1.0"
+  },
+  "notificationStatus": {
+    "customerEmailSent": false,
+    "businessEmailSent": false,
+    "errors": []
+  },
+  "submittedAt": "2026-11-20T07:44:27.996Z"
+}

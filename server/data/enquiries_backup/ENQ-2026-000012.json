@@ -1,0 +1,81 @@
+{
+  "referenceNumber": "ENQ-2026-000012",
+  "customerId": null,
+  "customerSnapshot": {
+    "fullName": "Saad",
+    "company": "",
+    "email": "saad@example.com",
+    "phone": "9898989898",
+    "whatsapp": "",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Mohali",
+    "address": "20, Sunny Enclave, Zirakpur",
+    "gstin": ""
+  },
+  "catalogueItems": [
+    {
+      "productId": "prod-25-vgs716",
+      "modelNo": "VGS716",
+      "name": "Valve Seat Grinding Stone 7/16\"",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": {
+        "sizeMm": "18 mm",
+        "stoneColor": "Pink"
+      },
+      "quantity": 4,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-25-vgs716",
+        "modelNo": "VGS716",
+        "name": "Valve Seat Grinding Stone 7/16\"",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": {
+          "sizeMm": "18 mm",
+          "stoneColor": "Pink"
+        },
+        "quantity": 4,
+        "notes": ""
+      }
+    },
+    {
+      "productId": "prod-25-vgs716",
+      "modelNo": "VGS716",
+      "name": "Valve Seat Grinding Stone 7/16\"",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": {
+        "sizeMm": "21 mm",
+        "stoneColor": "Black"
+      },
+      "quantity": 4,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-25-vgs716",
+        "modelNo": "VGS716",
+        "name": "Valve Seat Grinding Stone 7/16\"",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": {
+          "sizeMm": "21 mm",
+          "stoneColor": "Black"
+        },
+        "quantity": 4,
+        "notes": ""
+      }
+    }
+  ],
+  "customItems": [],
+  "generalNotes": "",
+  "status": "New",
+  "pdfUrl": "/api/enquiries/ENQ-2026-000012/download",
+  "consent": {
+    "accepted": true,
+    "timestamp": "2026-11-22T11:30:39.588Z",
+    "policyVersion": "1.0"
+  },
+  "notificationStatus": {
+    "customerEmailSent": false,
+    "businessEmailSent": false,
+    "errors": []
+  },
+  "submittedAt": "2026-11-22T11:30:39.588Z"
+}

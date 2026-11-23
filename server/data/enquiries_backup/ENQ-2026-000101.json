@@ -1,0 +1,33 @@
+{
+  "referenceNumber": "ENQ-2026-000101",
+  "submittedAt": "2026-11-18T14:32:00.000Z",
+  "status": "Quotation Dispatched",
+  "customerSnapshot": {
+    "fullName": "Rajesh Sharma",
+    "company": "Apex Cylinder Head Rebuilders Pvt Ltd",
+    "email": "rajesh@apexcylinder.in",
+    "phone": "+91 98112 34567",
+    "whatsapp": "+91 98112 34567",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Plot 44, Mayapuri Industrial Area Phase II"
+  },
+  "catalogueItems": [
+    {
+      "modelNo": "PSH-VGKP WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "quantity": 2,
+      "notes": "Requires heavy-duty cast iron dresser stand"
+    },
+    {
+      "modelNo": "VGS1116",
+      "name": "Valve seat grinding stone 11/16\" (Sioux)",
+      "category": "Valve Seat Grinding Tools",
+      "quantity": 14,
+      "notes": "Complete set of 45-degree and 30-degree grit stones"
+    }
+  ],
+  "customItems": []
+}

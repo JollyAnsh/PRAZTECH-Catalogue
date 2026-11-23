@@ -1,0 +1,33 @@
+{
+  "referenceNumber": "ENQ-2026-000103",
+  "submittedAt": "2026-11-17T17:45:00.000Z",
+  "status": "Quotation Dispatched",
+  "customerSnapshot": {
+    "fullName": "Sunil Kulkarni",
+    "company": "Kulkarni Heavy Diesel & Tractor Spares",
+    "email": "sunil.k@kulkarnidiesel.com",
+    "phone": "+91 98220 54119",
+    "whatsapp": "+91 98220 54119",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "address": "Sector 10, MIDC Bhosari Industrial Belt"
+  },
+  "catalogueItems": [
+    {
+      "modelNo": "LPHR",
+      "name": "HSS long pilot adjustable hand reamer (H7 to H14)",
+      "category": "Kingpin Reaming Tools",
+      "quantity": 8,
+      "notes": "Standard pilot expansion nuts included"
+    },
+    {
+      "modelNo": "PTD-38",
+      "name": "Diamond Point Valve Grinding stone Dresser (3/8\" x 24 UNF)",
+      "category": "Valve Seat Grinding Tools",
+      "quantity": 3,
+      "notes": "0.75 Carat natural industrial diamond point"
+    }
+  ],
+  "customItems": []
+}

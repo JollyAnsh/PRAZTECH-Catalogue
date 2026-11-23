@@ -1,0 +1,33 @@
+{
+  "referenceNumber": "ENQ-2026-000102",
+  "submittedAt": "2026-11-19T09:15:00.000Z",
+  "status": "Review Pending",
+  "customerSnapshot": {
+    "fullName": "Vikramaditya Rao",
+    "company": "Deccan Automotive Machining Works",
+    "email": "v.rao@deccanauto.com",
+    "phone": "+91 94401 88920",
+    "whatsapp": "+91 94401 88920",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "B-12, Peenya Industrial Estate 3rd Stage"
+  },
+  "catalogueItems": [
+    {
+      "modelNo": "HONE",
+      "name": "HONING STONE HOLDER with honing stones (34-60mm & 82.5-158mm)",
+      "category": "Honing & Boring Tools",
+      "quantity": 4,
+      "notes": "Include both 3-stone and 4-stone holder heads"
+    },
+    {
+      "modelNo": "HOST",
+      "name": "Silicone carbide honing stone (HOST82380, HOST50180)",
+      "category": "Honing & Boring Tools",
+      "quantity": 24,
+      "notes": "180 Medium & 320 Super Fine grits"
+    }
+  ],
+  "customItems": []
+}

@@ -1,0 +1,69 @@
+{
+  "referenceNumber": "ENQ-2026-000005",
+  "customerId": null,
+  "customerSnapshot": {
+    "fullName": "Ansh Jolly",
+    "company": "",
+    "email": "jollyanu74@gmail.com",
+    "phone": "+919877243231",
+    "whatsapp": "",
+    "country": "India",
+    "state": "Punjab",
+    "city": "Mohali",
+    "address": "20, Sunny Enclave, Zirakpur",
+    "gstin": ""
+  },
+  "catalogueItems": [
+    {
+      "productId": "prod-01-psh-vgkp-with-heavy-stand",
+      "modelNo": "PSH-VGKP WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 1,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-01-psh-vgkp-with-heavy-stand",
+        "modelNo": "PSH-VGKP WITH HEAVY STAND",
+        "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 1,
+        "notes": ""
+      }
+    },
+    {
+      "productId": "prod-02-psh-vgkp-white-with-heavy-stand",
+      "modelNo": "PSH-VGKP WHITE WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 1,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-02-psh-vgkp-white-with-heavy-stand",
+        "modelNo": "PSH-VGKP WHITE WITH HEAVY STAND",
+        "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 1,
+        "notes": ""
+      }
+    }
+  ],
+  "customItems": [],
+  "generalNotes": "",
+  "status": "New",
+  "pdfUrl": "/api/enquiries/ENQ-2026-000005/download",
+  "consent": {
+    "accepted": true,
+    "timestamp": "2026-11-19T09:03:17.010Z",
+    "policyVersion": "1.0"
+  },
+  "notificationStatus": {
+    "customerEmailSent": false,
+    "businessEmailSent": false,
+    "errors": []
+  },
+  "submittedAt": "2026-11-19T09:03:17.010Z"
+}

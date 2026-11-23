@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cat-valve-seat-grinding",
+    "name": "Valve Seat Grinding Tools",
+    "slug": "valve-seat-grinding-tools",
+    "description": "Precision valve seat grinding kits, diamond dressers, stones, pilots, holders, and heavy-duty stands for engine rebuilding and restoration.",
+    "displayOrder": 1,
+    "parentCategory": "Engine Repair & Restoration"
+  },
+  {
+    "id": "cat-honing-boring",
+    "name": "Honing & Boring Tools",
+    "slug": "honing-and-boring-tools",
+    "description": "Engine cylinder honing stone holders, silicon carbide and diamond honing stones, and carbide tip boring bits.",
+    "displayOrder": 2,
+    "parentCategory": "Engine Cylinder Machining"
+  },
+  {
+    "id": "cat-valve-seat-cutting",
+    "name": "Valve Seat Cutting Tools",
+    "slug": "valve-seat-cutting-tools",
+    "description": "Multi-angle carbide-tipped valve seat cutters and HSS/HCS cutter sets for car, motorcycle, small engine, and vintage engine restoration.",
+    "displayOrder": 3,
+    "parentCategory": "Engine Repair & Restoration"
+  },
+  {
+    "id": "cat-kingpin-reaming",
+    "name": "Kingpin Reaming Tools",
+    "slug": "kingpin-reaming-tools",
+    "description": "HSS adjustable expanding hand reamers with long pilots and extension pilots for kingpin fitting and precision bushing alignment.",
+    "displayOrder": 4,
+    "parentCategory": "Reaming Tools"
+  }
+]

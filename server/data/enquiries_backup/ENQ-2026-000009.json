@@ -1,0 +1,69 @@
+{
+  "referenceNumber": "ENQ-2026-000009",
+  "customerId": null,
+  "customerSnapshot": {
+    "fullName": "Ansh Jolly",
+    "company": "Xisco Enterprises",
+    "email": "jollyanshiayp@gmail.com",
+    "phone": "+919215609420",
+    "whatsapp": "+919215609420",
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "address": "53 A Pocket M, DDA, Janta Flats, Sarita Vihar",
+    "gstin": ""
+  },
+  "catalogueItems": [
+    {
+      "productId": "prod-01-psh-vgkp-with-heavy-stand",
+      "modelNo": "PSH-VGKP WITH HEAVY STAND",
+      "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+      "category": "Valve Seat Grinding Tools",
+      "selectedSubModel": null,
+      "quantity": 3,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-01-psh-vgkp-with-heavy-stand",
+        "modelNo": "PSH-VGKP WITH HEAVY STAND",
+        "name": "All in one 11/16\" and 7/16\" Thread - Engine Valve Seat Grinding Kit Set",
+        "category": "Valve Seat Grinding Tools",
+        "selectedSubModel": null,
+        "quantity": 3,
+        "notes": ""
+      }
+    },
+    {
+      "productId": "prod-43-ahrep",
+      "modelNo": "AHREP",
+      "name": "Adjustable hand reamer with extension pilot",
+      "category": "Kingpin Reaming Tools",
+      "selectedSubModel": null,
+      "quantity": 4,
+      "notes": "",
+      "productSnapshot": {
+        "productId": "prod-43-ahrep",
+        "modelNo": "AHREP",
+        "name": "Adjustable hand reamer with extension pilot",
+        "category": "Kingpin Reaming Tools",
+        "selectedSubModel": null,
+        "quantity": 4,
+        "notes": ""
+      }
+    }
+  ],
+  "customItems": [],
+  "generalNotes": "",
+  "status": "New",
+  "pdfUrl": "/api/enquiries/ENQ-2026-000009/download",
+  "consent": {
+    "accepted": true,
+    "timestamp": "2026-11-19T10:52:16.812Z",
+    "policyVersion": "1.0"
+  },
+  "notificationStatus": {
+    "customerEmailSent": false,
+    "businessEmailSent": false,
+    "errors": []
+  },
+  "submittedAt": "2026-11-19T10:52:16.812Z"
+}

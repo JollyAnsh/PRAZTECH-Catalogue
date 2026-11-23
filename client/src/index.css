@@ -1,0 +1,197 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dusty-mauve: #9080a5;
+  --indigo-ink: #2e075d;
+  --indigo-ink-2: #2d065c;
+  --dark-amethyst: #381c59;
+  --dusty-grape: #6e568b;
+  --white: #fefdfe;
+  --dim-grey: #665f6e;
+  --rebecca-purple: #5e3e8b;
+  --rebecca-purple-2: #5f3f8c;
+  --white-2: #fefefe;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background-color: #f7f4fa;
+    color: #2e075d;
+  }
+
+  /* Accessible Keyboard Focus Indicators - WCAG 2.2 AA (Criterion 2.4.7 & 2.4.11) */
+  :focus-visible {
+    outline: 2px solid #5e3e8b !important;
+    outline-offset: 2px !important;
+  }
+
+  /* Skip link for screen readers and keyboard users (WCAG 2.4.1) */
+  .skip-to-content {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 9999;
+    padding: 0.75rem 1.25rem;
+    background-color: #2e075d;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.875rem;
+    text-decoration: none;
+    border-radius: 0 0 0.5rem 0.5rem;
+    box-shadow: 0 4px 12px rgba(46, 7, 93, 0.3);
+  }
+  .skip-to-content:focus {
+    left: 1rem;
+    outline: 2px solid #b5a8c8 !important;
+  }
+}
+
+/* Custom Scrollbar - Purple Brand Palette */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f1f7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9080a5;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6e568b;
+}
+
+/* Print Styles for Clean Receipt / RFQ Printing */
+@media print {
+  header,
+  footer,
+  button,
+  .no-print,
+  nav,
+  .compare-drawer {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+  }
+
+  .print-receipt-container {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+
+  .print-header {
+    display: block !important;
+    border-bottom: 2pt solid #2e075d !important;
+    padding-bottom: 10pt !important;
+    margin-bottom: 12pt !important;
+  }
+
+  .print-header img {
+    height: 42px !important;
+    max-height: 42px !important;
+    width: auto !important;
+    max-width: 220px !important;
+    object-fit: contain !important;
+    display: inline-block !important;
+  }
+
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+  }
+
+  th, td {
+    border: 1pt solid #dddddd !important;
+    padding: 6pt 8pt !important;
+  }
+
+  th {
+    background-color: #f4f1f7 !important;
+    color: #2e075d !important;
+  }
+
+  a[href]:after {
+    content: "" !important;
+  }
+}
+
+/* ── Seamless Google Translate Clean Integration (Zero Intrusive Banners) ── */
+.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate,
+iframe.goog-te-banner-frame,
+iframe[class*="goog-te-banner"],
+iframe[class*="VIpgJd"],
+iframe[id*=":1.container"],
+iframe[id*=":2.container"],
+.VIpgJd-ZVi9od-ORHb-OEVmcd,
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+.VIpgJd-ZVi9od-aZ2wEe-OEVmcd,
+.VIpgJd-ZVi9od-xl07Ob-OEVmcd,
+body > .skiptranslate:first-child,
+body > iframe[src*="translate.google"],
+body > div[class*="skiptranslate"] {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0px !important;
+  width: 0px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  clip: rect(0, 0, 0, 0) !important;
+  position: absolute !important;
+  top: -9999px !important;
+  left: -9999px !important;
+  z-index: -9999 !important;
+}
+
+html {
+  top: 0px !important;
+  position: static !important;
+}
+
+body {
+  top: 0px !important;
+  position: static !important;
+  margin-top: 0px !important;
+}
+
+#goog-gt-tt,
+#goog-gt-vt,
+.goog-te-balloon-frame,
+.goog-tooltip,
+.goog-tooltip:hover,
+.goog-text-highlight {
+  display: none !important;
+  visibility: hidden !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element,
+.goog-te-gadget {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  width: 0 !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  display: none !important;
+}

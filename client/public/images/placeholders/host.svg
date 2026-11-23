@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150626" />
+      <stop offset="50%" stop-color="#2c114b" />
+      <stop offset="100%" stop-color="#2d065c" />
+    </linearGradient>
+    <linearGradient id="grid" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(135, 119, 156, 0.08)" stroke-width="1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="600" fill="url(#bg)" />
+  <rect width="600" height="600" fill="url(#grid)" />
+  
+  <circle cx="300" cy="250" r="130" fill="rgba(95, 63, 140, 0.25)" stroke="rgba(135, 119, 156, 0.4)" stroke-width="2" stroke-dasharray="6 6" />
+  
+  <g transform="translate(300, 240)">
+    <!-- Tool blueprint graphic -->
+    <circle cx="0" cy="0" r="70" fill="#2c114b" stroke="#87779c" stroke-width="3"/>
+    <path d="M -50 -50 L 50 50 M -50 50 L 50 -50" stroke="#87779c" stroke-width="2" opacity="0.6"/>
+    <circle cx="0" cy="0" r="30" fill="#5f3f8c" stroke="#ede8f5" stroke-width="2"/>
+    <circle cx="0" cy="0" r="8" fill="#ede8f5"/>
+    <!-- Technical dimension tick marks -->
+    <line x1="-90" y1="0" x2="-75" y2="0" stroke="#87779c" stroke-width="2"/>
+    <line x1="75" y1="0" x2="90" y2="0" stroke="#87779c" stroke-width="2"/>
+    <line x1="0" y1="-90" x2="0" y2="-75" stroke="#87779c" stroke-width="2"/>
+    <line x1="0" y1="75" x2="0" y2="90" stroke="#87779c" stroke-width="2"/>
+  </g>
+  
+  <!-- Badge -->
+  <rect x="200" y="380" width="200" height="30" rx="15" fill="rgba(135, 119, 156, 0.25)" stroke="rgba(135, 119, 156, 0.5)" stroke-width="1"/>
+  <text x="300" y="400" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#ede8f5" text-anchor="middle" letter-spacing="1.5">PRECISION-ENGINEERED</text>
+  
+  <!-- Model Text -->
+  <text x="300" y="445" font-family="Montserrat, system-ui, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Host</text>
+  
+  <!-- Category & Placeholder tag -->
+  <text x="300" y="475" font-family="system-ui, sans-serif" font-size="14" fill="#ab9ec0" text-anchor="middle">Honing & Boring Tools</text>
+  <text x="300" y="520" font-family="system-ui, sans-serif" font-size="11" fill="#87779c" text-anchor="middle" letter-spacing="1">PHOTO ASSET PLACEHOLDER • MANUAL UPLOAD PENDING</text>
+  
+  <!-- Watermark -->
+  <text x="560" y="580" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="rgba(255,255,255,0.2)" text-anchor="end">PRAZTECH®</text>
+</svg>
